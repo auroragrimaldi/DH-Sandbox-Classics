@@ -4,7 +4,7 @@ My primary research interest lies in applying computational methods—such as Ha
 
 This repository serves as a personal sandbox documenting my self-taught journey into Digital Humanities and Data Science. It contains my first practical experiments in structuring, analyzing, and transcribing historical text data. This is the structure:
 
-HTR experiments: Tests in Layout Analysis and Ground Truth (GT) preparation using Transcribes. I selected a sample manuscript from the Homer Multitext Project, applied a public recognition model (Byzantine Greek), and manually corrected the HTR output.
+HTR experiments: Tests in Layout Analysis and Ground Truth (GT) preparation using Transcribus. I selected a sample manuscript from the Homer Multitext Project, applied a public recognition model (Byzantine Greek), and manually corrected the HTR output.
 
 XML/TEI Encoding: Basic semantic markup experiments using the TEI (Text Encoding Initiatives) guidelines. I’d like to encode structural elements, abbreviations, and textual variants in Latin/Greek snippets.
 
