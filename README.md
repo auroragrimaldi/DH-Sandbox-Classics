@@ -1,6 +1,6 @@
-I am a Master's student in Classical Philology at the University of Naples Federico II, specializing in the intersection between traditional textual criticism (ecdotics) and Artificial Intelligence.
+I am a Master's student in Classical Philology at the University of Naples Federico II, specializing in the intersection between traditional textual criticism (ecdotics) and digital instruments.
 
-My primary research interest lies in applying computational methods—such as Handwritten Text Recognition (HTR) and Naturale Language Processing (NLP) to ancient Greek and Latin manuscripts.
+My primary research interest lies in applying computational methods, such as Handwritten Text Recognition (HTR), and Naturale Language Processing (NLP) to ancient Greek and Latin manuscripts.
 
 This repository serves as a personal sandbox documenting my self-taught journey into Digital Humanities and Data Science. It contains my first practical experiments in structuring, analyzing, and transcribing historical text data. This is the structure:
 
