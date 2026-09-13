@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    
+    <!-- 1. I METADATI -->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> mon premier test TEI: Hérodote, Livre I, 12</title>
+                <author>Hérodote</author>
+                <editor>IlAurora Grimaldi</editor>
+            </titleStmt>
+            <publicationStmt>
+                <p>Testv pour GitHub Sandbox - 2026</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Trascription à partir de l'édition OCT Wilson (2015)</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <listWit>
+    <witness xml:id= "A">Florence, BML, Laur. plut. 70.3</witness>
+    <witness xml:id= "D">Rome, BAV, Vat. gr. 2369</witness>
+    <witness xml:id= "R">Rome, BAV, Vat. gr. 123</witness>
+    <witness xml:id= "C">Cambridge, Cantabrigiensis, Collegii Emmanuelensis 30</witness>
+    <witness xml:id= "U">Rome, BAV, Vat. Urb. gr. 88</witness>
+    <witness xml:id= "V">Wien, ONB, Vind. hist.gr.85</witness>
+    <witness xml:id= "X">Rome, BAV, Vat. gr. 122</witness>
+    </listWit>
+    <sourceDesc>
+
+    <listBibl>
+        <bibl xml:id="Wesseling">Petrus Wesseling, Herodoti Halicarnassei Historiarum libri IX, Amsterdam 1763.</bibl>
+    </listBibl>
+</sourceDesc>
+    <text>
+        <body>
+            <p>
+                ὡς δὲ ἤρτυσαν τὴν ἐπιβουλήν, νυκτὸς 
+                <app>
+                <lem>γενομένης </lem> 
+                <rdg wit ="d">γινομένης </rdg>
+                </app>
+               
+    
+                (οὐ γὰρ
+                <app>
+               <lem> ἐμετίετο </lem>
+            <rdg wit ="d">μετίετο </rdg>
+                </app>
+
+                ὁ Γύγης, οὐδέ οἱ ἦν ἀπαλλαγὴ 
+                οὐδεμία, ἀλλ’ ἔδεε ἢ αὐτὸν ἀπολωλέναι ἢ Κανδαύλεα) εἵπετο 
+                ἐς τὸν θάλαμον τῇ γυναικί. καί μιν ἐκείνη ἐγχειρίδιον δοῦσα
+                 κατακρύπτει ὑπὸ τὴν αὐτὴν θύρην.καὶ μετὰ ταῦτα 
+                 ἀναπαυομένου Κανδαύλεω ὑπεκδύς τε καὶ ἀποκτείνας αὐτὸν 
+                ἔσχε καὶ τὴν γυναῖκα καὶ τὴν βασιληίην Γύγης, 
+                <p>
+    ἔσχε καὶ τὴν γυναῖκα καὶ τὴν βασιληίην Γύγης,
+    <app>
+    
+    <lem wit="#A">
+        τοῦ καὶ Ἀρχίλοχος ὁ Πάριος κατὰ τὸν αὐτὸν χρόνον γενόμενος ἐν ἰάμβῳ τριμέτρῳ ἐπεμνήσθη·
+    </lem>
+
+    <rdg type="conjecture" cause="deletion" resp="#Wesseling"/>
+</app>
+</p>
+            
+            </p>
+        </body>
+    </text>
+</TEI>
